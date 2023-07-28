@@ -1,0 +1,593 @@
+.first-row {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.second-row {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.third-row {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.forth-row {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.fifth-row {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.sixth-row {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.v1 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 2vw;
+    margin-right: 1vw;
+}
+
+#img1 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img2 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img3 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img4 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img5 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img6 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img7 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img8 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img9 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img10 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img11 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img12 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img13 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img14 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img15 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img16 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img17 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img18 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img19 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img20 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img21 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img22 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img23 {
+    width: 22vw;
+    height: 24vh;
+}
+
+#img24 {
+    width: 22vw;
+    height: 24vh;
+}
+
+.v2 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v3 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v4 {
+    width: 21vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v5 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 2vw;
+    margin-right: 1vw;
+}
+
+.v6 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v7 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v8 {
+    width: 21vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v9 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 2vw;
+    margin-right: 1vw;
+}
+
+.v10 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v11 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v12 {
+    width: 21vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v13 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 2vw;
+    margin-right: 1vw;
+}
+
+.v14 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v15 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v16 {
+    width: 21vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v17 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 2vw;
+    margin-right: 1vw;
+}
+
+.v18 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v19 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v20 {
+    width: 21vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v21 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 2vw;
+    margin-right: 1vw;
+}
+
+.v22 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v23 {
+    width: 22vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v24 {
+    width: 21vw;
+    height: 24vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.v1:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v2:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v3:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v4:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v5:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v6:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v7:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v8:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v9:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v10:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v11:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v12:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v13:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v14:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v15:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v16:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v17:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v18:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v19:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v20:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v21:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v22:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v23:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.v24:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
