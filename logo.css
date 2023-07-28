@@ -1,0 +1,16 @@
+.logo {
+    width: 12vw;
+    height: 9vh;
+    display: inline-block;
+    /* margin-right: 15vw; */
+    margin-left: 6vw;
+}
+
+.logo img {
+    margin: 0;
+    padding: 0;
+    width: 15vw;
+    height: 9vh;
+    display: inline-block;
+    border-radius: 20px;
+}
