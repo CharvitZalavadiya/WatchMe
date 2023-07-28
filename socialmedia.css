@@ -1,0 +1,76 @@
+.socialmedia {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    justify-content: center;
+    align-items: top;
+    height: 70vh;
+    width: 34vw;
+}
+
+.btn-socialmedia {
+    width: 5vw;
+    height: 10vh;
+    background-color: black;
+    display: flex;
+    align-items:center;
+    justify-content: end ;
+    justify-content: center;
+    margin-left: 1vw;
+    margin-right: 0vh;
+    margin-top: 11px;
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 50px;
+}
+
+#fb {
+    color: #006fff;
+    font-size: 20px;
+}
+
+#ig {
+    color: #e1306c;
+    font-size: 20px;
+}
+
+#tw {
+    color: #00acff;
+    font-size: 20px;
+}
+
+#gh {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#li {
+    color: #006fff;
+    font-size: 20px;
+}
+
+.btn-socialmedia.fb:hover {
+    transform: scale(1.3);
+}
+
+.btn-socialmedia.ig:hover {
+    transform: scale(1.3);
+}
+
+.btn-socialmedia.tw:hover {
+    transform: scale(1.3);
+}
+
+.btn-socialmedia.gh:hover {
+    transform: scale(1.3);
+}
+
+.btn-socialmedia.li:hover {
+    transform: scale(1.3);
+}
+
+.socialmedia-name{
+    display: flex;
+    justify-content:left;
+    align-content: flex-end;
+}
